@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Elwood is Alive!</string>
+    <string name="app_name">Elwood</string>
+    <string name="quit">Quit</string>
+    <string name="home">Home</string>
+    <string name="randomverse">HiHo Silver</string>
+    <string name="activity_name">Elwoods Home</string>
+    <string name="rhyme_name">Elwood's Rhymes</string>
+
+    <string-array name="homework_phrases">
+       <item>Android rocks</item>
+       <item>Sometimes I got slow cadence.</item>
+       <item>Eclipse is the tripper for me.</item>
+       <item>I spend weekends doing this.</item>
+       <item>So far, so nice weather we've had.</item>
+       <item>Economy bad? Just wait.</item>
+       <item>Our mayor rides bikes.</item>
+       <item>Driving in Seattle, expect delays.</item>
+    </string-array>
+
+</resources>
